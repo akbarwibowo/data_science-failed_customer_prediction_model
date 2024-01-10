@@ -10,7 +10,9 @@ Using variables:
 7. Diff PH
 8. Mean Balance
 9. Vintage_CR
+
 as the features with `Unpaid Tagging` as the label\
+
 There are three algorithms being used:
 1. Logistic regression
 2. Gradient boosting
