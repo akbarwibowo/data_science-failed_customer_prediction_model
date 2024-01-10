@@ -18,4 +18,3 @@ There are three algorithms being used:
 2. Gradient boosting
 3. Random forest
 build using Scikit-Learn library
-![Uploading image.png…]()
